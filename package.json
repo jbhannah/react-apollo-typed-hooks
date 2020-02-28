@@ -1,0 +1,19 @@
+{
+  "name": "react-apollo-typed-hooks",
+  "version": "0.1.0",
+  "description": "Wrappers for Apollo's React hooks with simplified typings",
+  "author": {
+    "name": "Jesse B. Hannah",
+    "email": "jesse@jbhannah.net",
+    "url": "https://jbhannah.net"
+  },
+  "license": "AGPL-3.0-or-later",
+  "homepage": "https://github.com/jbhannah/react-apollo-typed-hooks",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jbhannah/react-apollo-typed-hooks"
+  },
+  "bugs": {
+    "url": "https://github.com/jbhannah/react-apollo-typed-hooks"
+  }
+}
