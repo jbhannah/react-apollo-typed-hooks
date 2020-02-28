@@ -21,25 +21,35 @@
   },
   "scripts": {
     "build": "tsc",
-    "lint": "eslint . --ext .js,.jsx,.ts,.tsx --fix"
+    "lint": "eslint . --ext .js,.jsx,.ts,.tsx --fix",
+    "test": "jest"
   },
   "peerDependencies": {
     "@apollo/react-hooks": "3.x"
   },
   "devDependencies": {
     "@apollo/react-hooks": "^3.1.3",
+    "@apollo/react-testing": "^3.1.3",
+    "@testing-library/jest-dom": "^5.1.1",
+    "@testing-library/react": "^9.4.1",
+    "@types/jest": "^25.1.3",
     "@types/react": "^16.9.23",
     "@typescript-eslint/eslint-plugin": "^2.21.0",
     "@typescript-eslint/parser": "^2.21.0",
+    "apollo-cache-inmemory": "^1.6.5",
     "apollo-client": "^2.6.8",
     "eslint": "^6.8.0",
     "eslint-config-prettier": "^6.10.0",
     "eslint-plugin-prettier": "^3.1.2",
     "eslint-plugin-react": "^7.18.3",
     "graphql": "^14.6.0",
+    "graphql-tag": "^2.10.3",
+    "jest": "^25.1.0",
+    "jest-fetch-mock": "^3.0.1",
     "prettier": "^1.19.1",
     "react": "^16.13.0",
     "react-dom": "^16.13.0",
+    "ts-jest": "^25.2.1",
     "typescript": "^3.8.2"
   },
   "dependencies": {
