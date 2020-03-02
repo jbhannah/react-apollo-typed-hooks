@@ -1,5 +1,7 @@
 # react-apollo-typed-hooks
 
+[![Node.js](https://github.com/jbhannah/react-apollo-typed-hooks/workflows/Node.js/badge.svg)][workflows-nodejs]
+
 Wrappers for [Apollo][]'s React hooks with simplified typings.
 
 ## Usage
@@ -44,3 +46,4 @@ export const Component = () => {
 Copyright © 2020 Jesse B. Hannah. Licensed under the [MIT License](LICENSE).
 
 [apollo]: https://www.apollographql.com
+[workflows-nodejs]: https://github.com/jbhannah/react-apollo-typed-hooks/actions?query=workflow%3ANode.js
