@@ -1,6 +1,6 @@
 {
   "name": "react-apollo-typed-hooks",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "description": "Wrappers for Apollo's React hooks with simplified typings",
   "author": {
     "name": "Jesse B. Hannah",
